@@ -12,6 +12,16 @@
   <li><a href="https://www.linkedin.com/in/diego-fernandes-chagas/">Diego Fernandes</a></li>
 </ul>
 
-<h2>  Dashboards utilizadas</h2>
+<h2>  Dashboards utilizadas </h2>
 
 <img src ='./graficos/diego.png' alt =' grafico em pizza' heigt = '600' widht = '500'>
+<img src ='./graficos/graficoEditadoTirandoFundoBranco.png' alt ='tempo records' heigt = '600' widht = '500'>
+<img src ='./graficos/graficoLikesSemFundoBranco.png' alt =' mais likes' heigt = '600' widht = '500'>
+<img src ='./graficos/jogadores de mesmo id.jpeg' alt =' id iguais' heigt = '600' widht = '500'>
+<img src ='./graficos/mesmo horario de login.jpeg' alt =' horario de login igual' heigt = '600' widht = '500'>
+<img src ='./graficos/paises com mais jogadores.png' alt =' rank de paises' heigt = '600' widht = '500'>
+<img src ='./graficos/stars.png' alt =' quantida de estrelas' heigt = '600' widht = '500'>
+
+<h2>  Link para apresentaçao </h2>
+
+<p><a href="https://www.canva.com/design/DAE30UmzNnI/gIacbHb4pZ6vZoafhfwoBQ/view?utm_content=DAE30UmzNnI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></a</p>
