@@ -11,3 +11,7 @@
   <li><a href="https://www.linkedin.com/in/flppaesdemelo/">Felipe Paes</a></li>
   <li><a href="https://www.linkedin.com/in/diego-fernandes-chagas/">Diego Fernandes</a></li>
 </ul>
+
+<h2>  Dashboards utilizadas</h2>
+
+<img src ='./graficos/diego.png' alt =' grafico em pizza' heigt = '600' widht = '500'>
